@@ -6,6 +6,6 @@
 </head>
 
 <body>
-<?php echo "Help Programmez-en-oriente-objet" ?>
+<?php echo "Help Programmez-en-oriente-objet"Je n'arrive pas à terminer le tp mise en cache. ?>
 </body>
 </html>
